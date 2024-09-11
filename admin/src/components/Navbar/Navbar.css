@@ -1,0 +1,15 @@
+.navbar {
+    display: flex;
+    justify-content: space-between; /* Aligns items to the extreme ends */
+    align-items: center; /* Vertically aligns logo and profile in the center */
+    padding: 8px 4%; /* Keeps padding as it was */
+}
+
+.logo {
+    width: 120px /* Adjust the width as needed */
+}
+
+.profile {
+    width: 50px; /* Adjust the width as needed */
+    border-radius: 50%; /* If you want to make the profile image circular */
+}
